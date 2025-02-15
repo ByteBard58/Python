@@ -1,1 +1,1 @@
-Hey, How is it going?
+Give up 
