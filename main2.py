@@ -3,7 +3,7 @@ def xyz():
   for i in range(1,11):
     print(i)
 print('I Love you ^-1')
-def iteration(n):
+def loop(n):
   for i in range(1,n+1):
     print(i)
-iteration(100)
+loop(10)
